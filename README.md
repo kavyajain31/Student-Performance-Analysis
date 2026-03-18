@@ -20,7 +20,7 @@ This project analyzes student performance based on factors like age, gender, par
 
 ## 🤖 Machine Learning Model
 - Linear Regression used for prediction
-- Model accuracy: (write your score)
+- Model Score: 0.07213277335254631
 
 ## 📁 Files Included
 - Jupyter Notebook (.ipynb)
